@@ -13,9 +13,9 @@ Des Moines requested data for a business proposal.  August 2019 Citibike data fr
 
 ## Cleaning the Data:
 Jupyter Notebook was used to change the trip duration data to a datetime field.
-![Pic](https://github.com/Baylex/Citibike/blob/main/Challenge/images/before_transformation.PNG)
+![Pic](https://github.com/YannMusz/Citibike/blob/main/Challenge/images/before_transformation.PNG)
 
-![Pic0](https://github.com/Baylex/Citibike/blob/main/Challenge/images/after_transformation.PNG)
+![Pic0](https://github.com/YannMusz/Citibike/blob/main/Challenge/images/after_transformation.PNG)
 
 ## Results of the NYC Citibikes Analysis:
 For NYC, there were some interesting geographical areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
